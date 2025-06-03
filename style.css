@@ -1,1 +1,22 @@
-#styles
+
+.info_personal {
+    background-color: purple;
+    font-family:verdana;
+}
+.img_personal {
+    background-color: red;
+    text-align: justify;
+    font-family:verdana;
+
+}
+.caracteristicas_personales {
+    background-color:yellow;
+    font-family:verdana;
+    text-align: center;
+}
+#valores_personales {
+    background-color: green;
+    font-family:verdana;
+    text-align: center;
+    border:6px solid Tomato;
+}
